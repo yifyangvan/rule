@@ -5,6 +5,13 @@ DOMAIN-SUFFIX,qichiyu.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,lumiproxy
+DOMAIN-KEYWORD,ping0
+DOMAIN-KEYWORD,serv00
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,google-analytics.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
