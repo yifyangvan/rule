@@ -1,6 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+PROCESS-NAME,lucky
+DST-PORT,3478
+SRC-PORT,3478
 DOMAIN-KEYWORD,stun
 DOMAIN-KEYWORD,dynv6
 DOMAIN-KEYWORD,eu.org
