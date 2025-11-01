@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-KEYWORD,ip
 DOMAIN-SUFFIX,uicc.pp.ua
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,pages.dev
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
