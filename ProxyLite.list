@@ -12,6 +12,9 @@ DOMAIN-KEYWORD,ping0
 DOMAIN-KEYWORD,serv00
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-KEYWORD,ip
+DOMAIN-SUFFIX,uicc.pp.ua
+DOMAIN-KEYWORD,cloudflare
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
