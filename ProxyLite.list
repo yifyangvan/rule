@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,uicc.pp.ua
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,mr.118918.xyz
-
+DOMAIN-KEYWORD,mr.118918
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
