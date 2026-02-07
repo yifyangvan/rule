@@ -5,6 +5,8 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,copilot
+DOMAIN-SUFFIX,lmarena.ai
+DOMAIN-SUFFIX,arena.ai
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
