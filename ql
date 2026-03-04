@@ -1,0 +1,2 @@
+pt_pin=wdPKxZvBUCFnQE
+cookie: pt_key=app_openAAJpp9rdADAvjXasTPaGxkEmuqyOJt_miPf64D_MFD3ncQiNs0qeV8ovM31Gclld6ozPRaWVIkA
