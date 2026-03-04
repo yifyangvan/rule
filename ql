@@ -1,5 +1,0 @@
-pt_pin=wdPKxZvBUCFnQE
-cookie: pt_key=app_openAAJpp9rdADAvjXasTPaGxkEmuqyOJt_miPf64D_MFD3ncQiNs0qeV8ovM31Gclld6ozPRaWVIkA
-
-cookie: pt_pin=yifyangvan
-cookie: pt_key=app_openAAJpp-HlADB5xmE2WLnCI3vQ-qJXNXIzUcU4urhke5kK6BMW3krIPAFLBVMtEh0vlZlT1rjRftc
