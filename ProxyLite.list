@@ -18,7 +18,7 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,dora.hit.cc.cd
 DOMAIN-KEYWORD,nvidia
-DOMAIN-SUFFIX,xn--sss604efuw.com
+DOMAIN-KEYWORD,xn--sss604efuw
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
