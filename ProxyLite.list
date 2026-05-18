@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,dora.hit.cc.cd
 DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,xn--sss604efuw
+DOMAIN-SUFFIX,duckdns.org
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
