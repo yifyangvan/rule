@@ -31,9 +31,6 @@ DOMAIN-KEYWORD,firadio
 ##IP-CIDR,103.177.137.228/23
 ##DOMAIN-KEYWORD,nodeloc
 DOMAIN-KEYWORD,polarbear
-DOMAIN-SUFFIX,saas.sin.fan
-DOMAIN-SUFFIX,tencentapp.cn
-DOMAIN-SUFFIX,store.ubi.com
 DOMAIN-SUFFIX,api.mengying.eu.org
 DOMAIN-KEYWORD,ryplay
 DOMAIN-SUFFIX,mirrors.vsean.net
