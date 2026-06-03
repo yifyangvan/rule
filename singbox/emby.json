@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_keyword": [
+        "lite.cn2gias.uk",
+        "c1.staryuki.me",
+        "ap-cn01.emby.bangumi.ca",
+        "mjji.de",
+        "jsq.vban",
+        "emos"
+      ],
+      "domain_suffix": [
+        "lite.cn2gias.uk",
+        "c1.staryuki.me",
+        "ap-cn01.emby.bangumi.ca",
+        "cf.sfcj.org",
+        "cdn.sfcj.org",
+        "jsq.vban.xyz",
+        "emby.hohai.eu.org",
+        "115.hohai.eu.org",
+        "emos.best"
+      ]
+    }
+  ]
+}
