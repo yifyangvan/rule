@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_keyword": [
+        "porn"
+      ],
+      "domain_suffix": [
+        "pornhub.com"
+      ]
+    }
+  ]
+}
