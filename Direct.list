@@ -25,8 +25,8 @@ DOMAIN-KEYWORD,akshare
 DOMAIN-KEYWORD,10jqka
 DOMAIN-KEYWORD,opencode
 DOMAIN-KEYWORD,firadio
-DOMAIN-KEYWORD,tvbox.uicc.pp.ua
-DOMAIN-KEYWORD,cloudflare-dns.com
+DOMAIN-SUFFIX,tvbox.uicc.pp.ua
+DOMAIN-KEYWORD,cloudflare
 
 ##DOMAIN-KEYWORD,ap-cn01
 ##DOMAIN-SUFFIX,103.177.137.228
