@@ -1,20 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # EMOS反代
-DOMAIN-SUFFIX,emos.yu-wu.top
-DOMAIN-SUFFIX,emos.200038.xyz
-DOMAIN-SUFFIX,emos.us.ci
-DOMAIN-SUFFIX,emos.dolby.dpdns.org
-DOMAIN-SUFFIX,clun.top
-DOMAIN-SUFFIX,emos.movier.ink
-DOMAIN-SUFFIX,emos.cnmbyd.xyz
-DOMAIN-SUFFIX,yd.dirige.de5.net
-DOMAIN-SUFFIX,emos.emby.bio
-DOMAIN-SUFFIX,emos.tpuqc.dpdns.org
-DOMAIN-SUFFIX,emos.12321.us.ci
-DOMAIN-SUFFIX,emos.1qcg.lol
-DOMAIN-SUFFIX,emos.ujmb.dpdns.org
-DOMAIN-SUFFIX,media.emos.club
-DOMAIN-SUFFIX,vedio.heyingjun.com
 
 # MyList
 PROCESS-NAME,lucky
@@ -32,6 +17,8 @@ DOMAIN-KEYWORD,dns-query
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,ucc.pp.ua
 DOMAIN-SUFFIX,opendns.com
+DOMAIN-SUFFIX,www.饭太硬.net
+DOMAIN-SUFFIX,fty.xxooo.cf
 
 ##DOMAIN-KEYWORD,ap-cn01
 ##DOMAIN-SUFFIX,103.177.137.228
