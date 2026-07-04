@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,dora.hit.cc.cd
 DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,xn--sss604efuw
 DOMAIN-SUFFIX,duckdns.org
+DOMAIN-KEYWORD,cloudflare
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
