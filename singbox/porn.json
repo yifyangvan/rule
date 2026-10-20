@@ -3,12 +3,10 @@
   "rules": [
     {
       "domain_keyword": [
-        "porn",
-        "cloudflare"
+        "porn"
       ],
       "domain_suffix": [
-        "pornhub.com",
-        "cloudflare.com"
+        "pornhub.com"
       ]
     }
   ]
