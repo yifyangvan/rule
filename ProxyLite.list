@@ -14,13 +14,11 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-KEYWORD,ip
 DOMAIN-SUFFIX,uicc.pp.ua
-DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,dora.hit.cc.cd
 DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,xn--sss604efuw
 DOMAIN-SUFFIX,duckdns.org
-DOMAIN-KEYWORD,cloudflare
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
