@@ -3,10 +3,12 @@
   "rules": [
     {
       "domain_keyword": [
-        "porn"
+        "porn",
+        "opencode"
       ],
       "domain_suffix": [
-        "pornhub.com"
+        "pornhub.com",
+        "opencode.ai"
       ]
     }
   ]
