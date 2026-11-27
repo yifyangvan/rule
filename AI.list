@@ -7,12 +7,9 @@ DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,chatflowsai
 DOMAIN-KEYWORD,xingchiapi
 DOMAIN-KEYWORD,copilot
-DOMAIN-SUFFIX,lmarena.ai
-DOMAIN-SUFFIX,arena.ai
-DOMAIN-SUFFIX,groq.com
 DOMAIN-KEYWORD,mengying.eu.org
 DOMAIN-KEYWORD,tokenrouter
-DOMAIN-SUFFIX,tokenrouter.com
+
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
@@ -39,3 +36,7 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,integrate.api.nvidia.com
+DOMAIN-SUFFIX,lmarena.ai
+DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,tokenrouter.com
